@@ -47,7 +47,7 @@ const Hero = () => {
           transition={{ duration: 0.8, delay: 0.3 }}
         >
           <div className="image-placeholder">
-            <img src="/images/jutt.jpg" alt="JuttSb" />
+            <img src="/images/juttt.jpg" alt="JuttSb" />
             <div className="placeholder-img"></div>
           </div>
         </motion.div>
