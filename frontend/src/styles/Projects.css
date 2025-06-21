@@ -64,6 +64,10 @@
   color: var(--dark);
 }
 
+.dark .project-card {
+  background: black;
+}
+
 .project-content p {
   color: var(--gray);
   margin-bottom: 1rem;

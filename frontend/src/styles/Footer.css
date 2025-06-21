@@ -6,7 +6,7 @@
 }
 
 .dark .footer {
-  background: var(--dark-alt);
+  background: rgb(146, 154, 222);
 }
 
 .footer-content {
