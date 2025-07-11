@@ -39,6 +39,15 @@ const projects = [
     github: "https://github.com/ikhlas125/Grocery-Sysytem/tree/main",
     live: "https://www.linkedin.com/posts/abdullah-haroon-98b460217_just-wrapped-up-my-database-project-with-ugcPost-7329144323474698240--pVV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEg-enUBry4MMmzrrL8Ognfb4mrQRAvFREk",
   },
+  {
+    id: 5,
+    title: "Process Scheduling Visualizer",
+    description:
+      "A comprehensive CPU scheduling simulator in C++ that implements multiple process scheduling strategies for performance analysis and comparison.",
+    technologies: ["React", "CSS", "Node.js", "Express", "C++"],
+    image: "/images/download.jpg",
+    github: "https://github.com/ikhlas125/OS-Scheduling-Backend",
+  },
 ];
 
 export default projects;
