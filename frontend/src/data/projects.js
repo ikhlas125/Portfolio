@@ -48,6 +48,15 @@ const projects = [
     image: "/images/download.jpg",
     github: "https://github.com/ikhlas125/OS-Scheduling-Backend",
   },
+  {
+    id: 5,
+    title: " FinSight — Financial Behavior & Risk Analysis Platform",
+    description:
+      "A data-driven financial intelligence platform that analyzes ~50,000 corporate transactions to detect anomalies, model behavioral patterns and classify quarterly risk into Low/Medium/High/Extreme bands. ",
+    technologies: ["Python", "React.js", "FastAPI", "scikit-learn", "NLTK", "SQLite"],
+    image: "/images/images.png",
+    github: "https://github.com/AbdullahPatti/FinSight-Financial-Behavior-and-Risk-Analysis-Platform",
+  },
 ];
 
 export default projects;

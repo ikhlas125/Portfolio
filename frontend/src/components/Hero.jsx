@@ -5,7 +5,7 @@ import "../styles/Hero.css";
 const Hero = () => {
   const handleDownload = () => {
     const googleDriveLink =
-      "https://drive.usercontent.google.com/u/0/uc?id=1ZvrRO1seQIHRPHqY85LiLfZyIZ5wBaP7&export=download";
+      "https://drive.google.com/file/d/1qdfX04zlYiUwx6Je5GO4MN6NuY9Ensyc/view";
     window.open(googleDriveLink, "_blank");
   };
   return (
@@ -53,7 +53,7 @@ const Hero = () => {
             transition={{ duration: 0.8, delay: 0.3 }}
           >
             <div className="image-placeholder">
-              <img src="/images/juttt.jpg" alt="Ikhlas Ahmad" />
+              <img src="/images/img.jpeg" alt="Ikhlas Ahmad" />
               <div className="placeholder-img"></div>
             </div>
           </motion.div>
