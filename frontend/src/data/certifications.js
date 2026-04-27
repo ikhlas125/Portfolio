@@ -14,6 +14,14 @@ const certifications = [
     credentialLink:
       "https://drive.google.com/file/d/1PTR_jFliJT4rSV6PKd9Mr1DmAXdCI_V1/view",
   },
+  {
+    id: 3,
+    title: "Query Vista Competition",
+    issuer: "Softec",
+    date: "April 2026",
+    credentialLink:
+      "https://drive.google.com/file/d/1tQMJmxWoO7blNcmzxGkawGUwNS4VKxAW/view",
+  },
 ];
 
 export default certifications;
